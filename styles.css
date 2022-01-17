@@ -94,12 +94,31 @@ a:visited {
 }
 .card {
   padding: 15px 20px;
-  background-color: chocolate;
+  background-color: rgb(226, 222, 231);
   margin-bottom: 20px;
   border-radius: 20px;
 }
 .card h2 {
   margin-bottom: 10px;
+}
+.card2 {
+  padding: 15px 20px;
+  background-color: rgb(229, 222, 231);
+  margin-bottom: 20px;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 21px;
+}
+.card2 a {
+  color: rgb(30, 80, 145);
+}
+.card3 {
+  padding: 15px 20px;
+  background-color: rgb(219, 238, 241);
+  margin-bottom: 20px;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 21px;
 }
 
 .table {
