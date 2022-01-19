@@ -170,3 +170,8 @@ a:visited {
 .btn:hover {
   opacity: 0.9;
 }
+
+.button-back {
+  margin: 10px;
+  padding: 5px;
+}
